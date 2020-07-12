@@ -1,0 +1,2 @@
+.card-list{flex-wrap:wrap}.card-container,.card-list{display:flex;align-items:center;justify-content:center}.card-container{flex-direction:column;margin:1rem;padding:1rem;border:1px solid #222;border-radius:1rem;background-color:#3b3b3b}.card-container:hover{background-color:#303030;cursor:pointer}.card-name{font-weight:900}p{margin:.2rem 0}.monster-img{margin-bottom:1rem}html{background-color:#222}.App{text-align:center;color:#eee;height:100vh;font-family:"Pangolin",cursive}.app-title{margin-top:0}
+/*# sourceMappingURL=main.3b1bc09e.chunk.css.map */
